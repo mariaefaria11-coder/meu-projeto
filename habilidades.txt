@@ -1,0 +1,6 @@
+Habilidades:
+
+Cantar;
+Inglês;
+Matemática;
+SQL.
